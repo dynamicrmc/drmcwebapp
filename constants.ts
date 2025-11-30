@@ -40,7 +40,7 @@ Whether you are a growing business seeking the right talent or an individual aim
   ],
   contact: {
     address: "No 2, Martins Street, off Teju Osho Market, Oju-Elegba Road, Surulere, Lagos State, Nigeria.",
-    emails: ["info.dynamicrmcltd@gmail.com", "hr@dynamicrmcltd.com.ng", "operations@dynamicrmcltd.com.ng"],
+    emails: ["info.dynamicrmcltd@gmail.com", "hr@dynamicrmcltd.org.ng", "operations@dynamicrmcltd.org.ng"],
     phones: ["08034012264", "08138090286", "09060234049"],
     whatsapp: "09136073791"
   }
